@@ -35,7 +35,7 @@ Database:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/smart-inventory-system.git
+git clone https://github.com/falakhub-dev/smart-inventory-system.git
 
 2. Navigate to the project folder
 
